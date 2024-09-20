@@ -5,36 +5,76 @@
             "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaoqiu.js",
             "version": "1.0.0"
         },
- 	{
+     	{
             "name": "小蜗音乐（酷我）",
             "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaowo.js",
             "version": "1.0.0"
         },
- 	{
+ 	    {
             "name": "小蜜音乐（咪咕）",
             "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaomi.js",
             "version": "1.0.0"
         },
- 	{
+ 	    {
             "name": "小芸音乐（网易云）",
             "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaoyun.js",
             "version": "1.0.0"
         },
- 	{
+ 	    {
             "name": "小蜗音乐（酷我）",
             "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaowo.js",
             "version": "1.0.0"
         },
- 	{
+ 	    {
             "name": "小枸音乐（酷狗）",
             "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaogou.js",
             "version": "1.0.0"
         },
+ 	    {
+            "name": "QQ音乐",
+            "url": "http://adad23u.appinstall.life/dist/qq/index.js",
+            "version": "1.0.0"
+        },
+        {
+            "name": "网易云音乐",
+            "url": "https://gitee.com/raycn120/musicfree/raw/master/netease.js",
+            "version": "1.0.0"
+        },
+        {
+            "name": "酷我音乐",
+            "url": "http://adad23u.appinstall.life/dist/kuwo/index.js",
+            "version": "1.0.0"
+        },
+        {
+            "name": "咪咕音乐",
+            "url": "http://adad23u.appinstall.life/dist/migu/index.js",
+            "version": "1.0.0"
+        },
         {
             "name": "bilibili",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
+            "url": "http://adad23u.appinstall.life/dist/bilibili/index.js",
             "version": "0.1.15"
-        }
+        },
+        {
+            "name": "集合多个音乐源",
+            "url": "https://gitlab.com/acoolbook/musicfree/-/raw/main/music.json",
+            "version": "1.0.0"
+        },
+        {
+            "name": "备用集合音乐源",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json",
+            "version": "1.0.0"
+        },
+        {
+            "name": "排行榜插件",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/suno/index.js",
+            "version": "1.0.0"
+        },
+        {
+            "name": "排行榜插件",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/udio/index.js",
+            "version": "1.0.0"
+        },
     
     ]
 }
