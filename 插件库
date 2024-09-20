@@ -1,0 +1,40 @@
+{
+    "plugins": [
+        {
+            "name": "小秋音乐（QQ）",
+            "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaoqiu.js",
+            "version": "1.0.0"
+        },
+ 	{
+            "name": "小蜗音乐（酷我）",
+            "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaowo.js",
+            "version": "1.0.0"
+        },
+ 	{
+            "name": "小蜜音乐（咪咕）",
+            "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaomi.js",
+            "version": "1.0.0"
+        },
+ 	{
+            "name": "小芸音乐（网易云）",
+            "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaoyun.js",
+            "version": "1.0.0"
+        },
+ 	{
+            "name": "小蜗音乐（酷我）",
+            "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaowo.js",
+            "version": "1.0.0"
+        },
+ 	{
+            "name": "小枸音乐（酷狗）",
+            "url": "https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaogou.js",
+            "version": "1.0.0"
+        },
+        {
+            "name": "bilibili",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
+            "version": "0.1.15"
+        }
+    
+    ]
+}
