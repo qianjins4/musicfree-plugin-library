@@ -56,16 +56,6 @@
             "version": "0.1.15"
         },
         {
-            "name": "集合多个音乐源",
-            "url": "https://gitlab.com/acoolbook/musicfree/-/raw/main/music.json",
-            "version": "1.0.0"
-        },
-        {
-            "name": "备用集合音乐源",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json",
-            "version": "1.0.0"
-        },
-        {
             "name": "排行榜插件",
             "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/suno/index.js",
             "version": "1.0.0"
